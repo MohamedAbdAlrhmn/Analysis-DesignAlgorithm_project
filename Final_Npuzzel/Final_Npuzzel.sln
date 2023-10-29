@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Npuzzel", "Final_Npuzzel\Final_Npuzzel.csproj", "{3DAC8F2D-2083-4152-9057-E8246003A083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAC8F2D-2083-4152-9057-E8246003A083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAC8F2D-2083-4152-9057-E8246003A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAC8F2D-2083-4152-9057-E8246003A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAC8F2D-2083-4152-9057-E8246003A083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF7BE06-CE65-4B30-BFFF-714F991B8FCC}
+	EndGlobalSection
+EndGlobal
